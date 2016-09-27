@@ -1,0 +1,34 @@
+body {
+  margin-top: 5%;
+}
+
+.quote {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 35pt;
+  text-align: center;
+}
+
+#getQuote {
+  margin-top:  10px;
+}
+
+.col-md-2 {
+  padding: 50px;
+  padding-bottom: 80px;
+  padding-top: 20px;
+  height: 75px;
+  background: white;
+}
+
+.col-md-4 {
+  padding: 50px;
+  background: white;
+}
+
+.fa-twitter-square {
+  color: #625858;
+}
+
+.btn-primary {
+  background-color: #625858;
+}
